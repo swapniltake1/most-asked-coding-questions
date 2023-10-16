@@ -1,7 +1,8 @@
+package JavaQuestions;
 import java.util.Scanner;
 
 public class Swap2Numbers {
-    
+
     // swap 2 numbers without using 3rd veriable in java.
 
     public static void main(String[] args) {
