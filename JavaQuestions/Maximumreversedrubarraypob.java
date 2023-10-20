@@ -1,4 +1,5 @@
-public class MaximumReversedSubarray {
+package JavaQuestions;
+public class Maximumreversedrubarraypob {
 
     // reverse an array
     private static void reverseArray(int[] arr) {
