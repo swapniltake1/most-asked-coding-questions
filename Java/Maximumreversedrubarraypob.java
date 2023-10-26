@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Java;
 public class Maximumreversedrubarraypob {
 
     // reverse an array

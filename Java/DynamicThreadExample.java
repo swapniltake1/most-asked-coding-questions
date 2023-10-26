@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Java;
 
 public class DynamicThreadExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Java;
 import java.util.Scanner;
 //How to check Odd and Even Number in java.
 

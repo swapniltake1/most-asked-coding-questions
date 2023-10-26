@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Java;
 import java.util.Scanner;
 
 public class Swap2Numbers {

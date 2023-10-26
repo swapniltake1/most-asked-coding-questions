@@ -1,4 +1,4 @@
-package JavaQuestions;
+package Java;
 //Print Star console using Loop
 public class PrintStars {
     public static void main(String[] args) {
