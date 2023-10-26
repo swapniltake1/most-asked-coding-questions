@@ -1,6 +1,6 @@
-# Java Interview Coding Questions
+# Most Asked Interview Coding Questions
 
-Welcome to the Java Interview Coding Questions repository. This collection aims to provide valuable insights into the commonly asked Java coding questions during technical interviews.
+Welcome to the Interview Coding Questions repository. This collection aims to provide valuable insights into the commonly asked Java coding questions during technical interviews.
 
 ## Overview
 
