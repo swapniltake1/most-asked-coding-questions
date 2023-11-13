@@ -18,7 +18,6 @@ public class CodeCaza {
         
        for(int i=1; i<=110; i++){
         
-        
         if(i%3 == 0 && i%5 == 0){
             System.out.print(" CozaLoza ");
         }
@@ -34,8 +33,8 @@ public class CodeCaza {
         else{
            System.out.print(" "+i+" ");
         }
-        int num11=11;
-        if(i == num11){
+       // int num11=11;
+        if(i%11 == 0){
             System.out.println(" ");
          //  num11=num11*num11;
         }
