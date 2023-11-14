@@ -39,6 +39,9 @@ public class CodeCaza {
          //  num11=num11*num11;
         }
 
+
+        // output as expected 
+
  
     }
     }
