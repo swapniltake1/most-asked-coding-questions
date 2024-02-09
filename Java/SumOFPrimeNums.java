@@ -1,5 +1,14 @@
  package Java;
 
+/*
+ * 
+ * Question:
+ *  Write a Java program to find the sum of all prime numbers within a given range.
+ *  The program should prompt the user to enter the range (start and end), and then display the sum of all prime numbers within that range.
+ */
+
+
+
 class SumOFPrimeNums {
 
     public static void calculateSum(int start, int end){
