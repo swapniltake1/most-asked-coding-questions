@@ -4,7 +4,7 @@ Welcome to the Interview Coding Questions repository. This collection aims to pr
 
 ## Overview
 
-This repository is dedicated to compiling a comprehensive list of Java coding questions frequently encountered in technical interviews. The focus is on providing practical insights and solutions to help aspiring candidates prepare effectively for Java-centric technical assessments.
+This repository is dedicated to compiling a comprehensive list of Java coding questions frequently encountered in technical interviews. The focus is on providing practical insights and solutions to help aspiring candidates prepare effectively for Java-centric technical assessments.. 
 
 ## Purpose
 
